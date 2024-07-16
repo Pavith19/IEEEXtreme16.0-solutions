@@ -5,12 +5,12 @@
 
 
 <p align="center">
-  <img src="Assets/ieeextreme-17.png" alt="IEEEXtreme 17.0 2023 banner">
+  <img src="Assets/ieeextreme-16.png" alt="IEEEXtreme 16.0  banner">
 </p>
 
 # IEEEXtreme 16.0 Solutions
 
-Welcome to the IEEEXtreme 16.0 Solutions Repository! This repository contains my solutions to problems from the IEEEXtreme 17.0 programming competition. Each folder corresponds to a specific problem and includes both the problem statement (PDF) and my solution.
+Welcome to the IEEEXtreme 16.0 Solutions Repository! This repository contains my solutions to problems from the IEEEXtreme 16.0 programming competition. Each folder corresponds to a specific problem and includes both the problem statement (PDF) and my solution.
 
 ## Problems Solved
 
