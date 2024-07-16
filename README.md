@@ -14,14 +14,13 @@ Welcome to the IEEEXtreme 16.0 Solutions Repository! This repository contains my
 
 ## Problems Solved
 
-1. [Cool Sum](./Cool%20Sum)
-2. [Dice](./Dice)
-3. [Happy Numbers](./Happy%20Numbers)
-4. [Programmers Poem](./Programmers%20Poem)
-5. [Restaurant Cipher](./Restaurant%20Cipher)
-6. [Rumors](./Rumors)
-7. [War Games](./War%20Games)
-8. [Caesar Redux](./caesar-redux)
+1. [ASCII Dancer](./ASCII%20Dancer)
+2. [Gaius Letters](./Gaius%20Letters)
+3. [My Treat](./My%20Treat)
+4. [Pizza Cutter](./Pizza%20Cutter)
+5. [Scheduler Redux](./Scheduler%20Redux)
+6. [Scheduler](./Scheduler)
+7. [What Language Am I Speaking](./What%20Language%20Am%20I%20Speaking)
 
 ## Repository Structure
 
