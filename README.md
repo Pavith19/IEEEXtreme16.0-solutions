@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="Assets/ieeextreme-16.png" height=280 width=580 alt="IEEEXtreme 16.0  banner">
+  <img src="Assets/ieeextreme-16.png" height=280 width=581 alt="IEEEXtreme 16.0  banner">
 </p>
 
 # IEEEXtreme 16.0 Solutions
