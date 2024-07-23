@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def printMan():
     for i in range(3):
         print(man[i][0] + man[i][1] + man[i][2])
