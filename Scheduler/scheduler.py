@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 # To get 100% points, you have to use Pypy3 instead of Python3
 jobs, workers = map(int, input().split())
 
