@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 class Internal_Node:
     def __init__(self, character, left, right):
         self.character = character
